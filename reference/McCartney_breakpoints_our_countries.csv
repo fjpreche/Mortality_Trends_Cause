@@ -1,0 +1,33 @@
+Country,Name in McCartney et al.,"Breakpoint, life expectancy (Table S6.1)","Breakpoint, ASMR (Table S6.2)",Present in their tables,No breakpoint identified,Series rejecting linearity in our 2012-2019 analysis
+Australia,,2010.2,2005.0,Both,,3
+Austria,,2006.8,2007.0,Both,,0
+Belgium,,2005.9,2007.0,Both,,0
+Bulgaria,,,,Neither,,1
+Canada,,2012.2,2011.8,Both,,1
+Chile,,2006.0,,Both,S6.2,0
+Croatia,,2013.7,2013.5,Both,,1
+Czechia,Czech Rep.,2014.0,2010.9,Both,,3
+Denmark,,2007.0,2014.4,Both,,1
+Estonia,,2013.0,2013.0,Both,,0
+Finland,,2015.0,2005.7,Both,,2
+France,,2006.9,2007.1,Both,,0
+Germany,,2006.8,2006.4,Both,,0
+Hong Kong,,2004.5,2004.7,Both,,0
+Hungary,,2005.0,,Both,S6.2,0
+Iceland,,2014.2,2014.0,Both,,0
+Ireland,,2005.5,2008.4,Both,,1
+Italy,,2005.6,2006.0,Both,,0
+Japan,,2011.8,2001.5,Both,,2
+Latvia,,2005.5,2005.0,Both,,1
+Lithuania,,2006.2,2006.0,Both,,3
+Luxembourg,,,2015.8,S6.2 only,,0
+Netherlands,,2009.4,2009.7,Both,,0
+Poland,,2008.0,2016.0,Both,,5
+Portugal,,2007.4,2011.0,Both,,1
+Republic of Korea,Korea,2008.4,2009.0,Both,,3
+Slovenia,,2014.0,2010.5,Both,,0
+Spain,,2013.2,2013.0,Both,,1
+Sweden,,2010.7,2009.6,Both,,0
+Switzerland,,2006.4,2006.3,Both,,0
+United Kingdom,UK,2012.3,2011.0,Both,,1
+United States,USA,2011.7,2010.1,Both,,4

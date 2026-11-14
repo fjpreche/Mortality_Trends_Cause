@@ -1,0 +1,11 @@
+# Versions with which Figures.ipynb was run end to end (Python 3.12).
+numpy==1.26.4
+pandas==2.2.3
+matplotlib==3.9.2
+seaborn==0.13.2
+openpyxl==3.1.5
+pillow==10.4.0
+jupyter
+# Optional, used by mortality_estimates.py when installed (exact t p-values,
+# negative-binomial cross-check); not needed to draw the figures.
+scipy
