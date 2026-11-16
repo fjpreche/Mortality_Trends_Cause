@@ -1,6 +1,6 @@
 # Age- and cause-specific mortality trends in high-income countries, 2012–2019
 
-Code and results for *Diverging Pre-Pandemic Mortality Trends: Age-Specific and Cause-Specific
+Code and results for manuscript Francisco J. Pérez-Reche, Jennifer Summers, Gareth T. Jones, Gary J. Macfarlane, *Diverging Pre-Pandemic Mortality Trends: Age-Specific and Cause-Specific
 Patterns Across High-Income Countries*.
 
 Everything behind the figures and tables of the paper is here: the estimation code, one output table
@@ -8,9 +8,6 @@ per cause level for the combined-sex and the sex-specific analyses, the notebook
 figure, and the workbook of Supplementary File 2. **Cells that could not be estimated are kept in
 the output tables, with the reason recorded**, so the denominator of any summary can be
 reconstructed from the files themselves.
-
-> **TODO before publishing:** repository URL and archive DOI, data extract dates (see *Data
-> sources*), and the citation block.
 
 ## Contents
 
